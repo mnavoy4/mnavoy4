@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there, I'm Michael Navoy 👋
+## I'm a Full Stack Software Engineer, Outdoorsman, and Live Music Fanatic
 
 [![Michael's github stats](https://github-readme-stats.vercel.app/api?username=mnavoy4&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
