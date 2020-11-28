@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Michael's github stats](https://github-readme-stats.vercel.app/api?username=mnavoy4)](https://github.com/anuraghazra/github-readme-stats)
+[![Michael's github stats](https://github-readme-stats.vercel.app/api?username=mnavoy4&show_icons=true$theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
