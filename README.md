@@ -1,7 +1,9 @@
 ## Hi there, I'm Michael Navoy 👋
 ### I'm a Full Stack Software Engineer, Outdoorsman, and Live Music Fanatic
 
+<p align='center'>
 [![Michael's github stats](https://github-readme-stats.vercel.app/api?username=mnavoy4&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 ### Technology Stack:
 [<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>][linkedIn]
@@ -19,6 +21,7 @@
 
 ### I am currently working on and looking to collaborate on a new Applicant Tracking System
 #### I would love some help implementing Auth and storing refresh tokens in MongoDB correctly
+<h4>
 
 ### How to Reach Me
 Email: **mnavoy4@gmail.com**
