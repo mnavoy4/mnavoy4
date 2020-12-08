@@ -22,6 +22,7 @@
 
 ### How to Reach Me
 Email: **mnavoy4@gmail.com**
+<br>
 Phone: **985-237-2539**
 
 <!--
