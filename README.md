@@ -21,7 +21,7 @@
 
 ### I am currently working on and looking to collaborate on a new Applicant Tracking System
 #### I would love some help implementing Auth and storing refresh tokens in MongoDB correctly
-<h4>
+<h4>Interested in collaborating? Click here for the ATS Repo: <a href='https://github.com/mnavoy4/HCRmatcher2'>here</a></h4>
 
 ### How to Reach Me
 Email: **mnavoy4@gmail.com**
